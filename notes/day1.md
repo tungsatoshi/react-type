@@ -8,10 +8,10 @@
 
   # 2. Cài đặt vitejs
 
-  `npm create vite@latest my-name-app -- --template react-ts`
+  `pnpm create vite@latest my-name-app -- --template react-ts`
 
   ```
   cd my-name-app
-  npm i
-  npm run dev
+  pnpm i
+  pnpm run dev
   ```
