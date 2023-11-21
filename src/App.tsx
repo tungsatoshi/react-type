@@ -1,10 +1,9 @@
 import "./App.css";
-import ProductList from "./components/ProductList";
 
 function App() {
   return (
     <>
-      <ProductList />
+      <h1>Chúc các bạn thi tốt!</h1>
     </>
   );
 }
